@@ -10,3 +10,4 @@ This file runs through a 'manual' use of k-means in order to cluster together da
 This file does the same as that above however with the help of sklearn.
 
 3. KMeansClusteringPlusPlus_GH.ipynb
+This file makes good use of numpy to generate random values from a gaussian distribution in order to then apply the k-means++ algorithm with the help of sklearn. 
